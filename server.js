@@ -11,7 +11,8 @@ const IDX_STOCKS = {
   'ADRO': 'ADRO.JK', 'ITMG': 'ITMG.JK', 'BSSR': 'BSSR.JK', 'HRUM': 'HRUM.JK',
   'PGAS': 'PGAS.JK', 'AKRA': 'AKRA.JK', 'MEDC': 'MEDC.JK',
   'BSDE': 'BSDE.JK', 'CTRA': 'CTRA.JK', 'SMRA': 'SMRA.JK',
-  'ASII': 'ASII.JK', 'AUTO': 'AUTO.JK'
+  'ASII': 'ASII.JK', 'AUTO': 'AUTO.JK',
+  'DATA': 'DATA.JK', 'SOLA': 'SOLA.JK', 'MPIX': 'MPIX.JK', 'MANG': 'MANG.JK'
 };
 
 const IHSG_SYMBOL = '^JKSE';
