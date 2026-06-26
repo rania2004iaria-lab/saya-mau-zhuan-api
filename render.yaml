@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: saya-mau-zhuan-api
+    env: node
+    plan: starter
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NODE_VERSION
+        value: 18
